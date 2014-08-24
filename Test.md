@@ -1,2 +1,2 @@
-## Testing Repo Sync
-# Push / Pull = Successful
+# Testing Repo Sync
+## Push / Pull = Successful
